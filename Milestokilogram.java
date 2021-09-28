@@ -2,7 +2,7 @@ package com.mohamedkaba;
 
 import java.util.Scanner;
 
-public class Main {
+public class Milestokilogram {
 
     static final double ML2KL = 1.60935;
 
