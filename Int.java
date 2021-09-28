@@ -2,7 +2,7 @@ package com.mohamedkaba;
 
 import java.util.Scanner;
 
-public class Main {
+public class Int {
     public static void main(String[] args) {
         // Name - Mohamed Kaba
         // Student ID - T00690092
